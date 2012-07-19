@@ -1,0 +1,15 @@
+About
+=====
+This is a rebar template for creating a simple eunit skeleton
+to create unit tests.
+
+Installation
+============
+Just copy the simpletest.* files to the "priv" directory of your rebar
+application or into the priv/templates directory of your rebar copy and
+recompile it.
+
+Use
+===
+$ rebar create template=simpletest
+

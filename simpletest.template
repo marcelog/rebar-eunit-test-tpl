@@ -1,0 +1,2 @@
+{variables, [{id, "simple_test"}]}.
+{template, "simpletest.erl", "test/{{id}}.erl"}.
